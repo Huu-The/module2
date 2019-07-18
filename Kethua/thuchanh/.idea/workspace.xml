@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86773bec-72d1-4263-98fe-da695b56e4dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/.idea/bai1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh1/out/production/baithuchanh1/SystemTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh1/out/production/baithuchanh1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh1/src/SystemTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh3/baithuchanh3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh3/out/production/baithuchanh3/RectangleProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh3/out/production/baithuchanh3/tinhdientich.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh3/src/RectangleProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh3/src/tinhdientich.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh4/baithuchanh4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh4/out/production/baithuchanh4/nam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh4/src/nam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh5/baithuchanh5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh5/src/nam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh6/baithuchanh6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh6/out/production/baithuchanh6/nam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh6/src/nam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh7/baithuchanh7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh7/out/production/baithuchanh7/number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai1/thuchanh1/thuchanh/baithuchanh7/src/number.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1015" />
+    <option name="y" value="25" />
+    <option name="width" value="910" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86773bec-72d1-4263-98fe-da695b56e4dd" name="Default Changelist" comment="" />
+      <created>1563415472827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563415472827</updated>
+      <workItem from="1563415474240" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
